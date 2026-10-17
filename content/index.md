@@ -1,28 +1,30 @@
 ---
-title: Welcome
+title: Yashar Tahermanesh
 ---
 
-# Yashar Tahermanesh
+# Geospatial Data Engineer
 
-Geospatial Data Engineer focused on building robust data pipelines, scalable spatial storage, and analytical systems.
-
----
-
-## 🛠 Core Engineering Stack
-
-- **Geospatial Processing:** Python (GeoPandas, Shapely, PyProj), QGIS
-- **Database & Spatial Engines:** PostgreSQL, PostGIS
-- **Pipeline & Infrastructure:** SQL, Git, Linux / Windows Environments
+Spatial data engineer specializing in automated ingestion pipelines, spatial database architecture (PostGIS), and high-throughput vector processing workflows for production environments.
 
 ---
 
-## 🧭 Engineering Focus
+## Featured Case Studies
 
-This digital garden serves as a public repository of technical write-ups, architecture notes, and case studies developed during the design of spatial data solutions.
-
-- **[Projects](projects/):** Implementation journals and production-ready spatial pipelines.
-- **Data Engineering:** High-performance spatial indexing, vector workflows, and automated ingest pipelines.
+- [[projects/automated_water_level_monitoring_pipeline|Automated Water Level Monitoring Pipeline]]: Ingestion of cross-border hydrological telemetry, topology and WGS84 validation using GeoPandas, and geodesic proximity analytics in PostGIS.
+- Explore all work: [[projects/index|Engineering Projects Hub]]
 
 ---
 
-*Find me on [GitHub](https://github.com/yashar-tahermanesh) or connect via [LinkedIn](https://linkedin.com).*
+## Core Engineering Stack
+
+- **Spatial Databases & Warehouses:** PostgreSQL 18, PostGIS 3.5, Spatial Indexing (GiST), ST_Geometry / Geography types
+- **Vector & Pipeline Engineering:** Python 3.13, GeoPandas, Shapely, SQLAlchemy, GeoAlchemy2, Psycopg2
+- **Cartographic QA & Analytics:** QGIS LTR, Coordinate Systems (EPSG:4326 / WGS84, projected CRS)
+- **Tooling & Infrastructure:** Git, GitHub Actions (CI/CD), Node.js, Linux / Windows runtime environments
+
+---
+
+## Connect
+
+- **GitHub:** [github.com/yashar-tahermanesh](https://github.com/yashar-tahermanesh)
+- **LinkedIn:** [linkedin.com/in/yashartahermanesh](https://www.linkedin.com/in/yashartahermanesh/)
