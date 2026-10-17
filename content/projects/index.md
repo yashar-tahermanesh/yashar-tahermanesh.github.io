@@ -20,7 +20,7 @@ Documented implementations covering automated ingestion, spatial validation, Pos
 
 
 
-\### 1. \[\[automated-water-monitoring-pipeline|Automated Water Level Monitoring Pipeline (NL \& IE)]]
+\### 1. \[\[automated\_water\_level\_monitoring\_pipeline|Automated Water Level Monitoring Pipeline (NL \& IE)]]
 
 \- \*\*Stack:\*\* Python 3.13, GeoPandas, Shapely, SQLAlchemy, PostgreSQL 18 / PostGIS 3.5, QGIS
 
